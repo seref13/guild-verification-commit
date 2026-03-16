@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-05T12:54:24.937Z
-Commit: Patch API endpoint error handling
+Timestamp: 2026-03-16T09:45:43.057Z
+Commit: Fix broken links in documentation
